@@ -8,26 +8,26 @@ body {
     background-color: #d9dcd6;
 }
 
-/* horiseon class */
-.horiseon {
+/* hori class */
+.hori {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.horiseon h1 {
+.hori h1 {
     display: inline;
     font-size: 48px;
     font-weight: bold;
     margin: 0;
 }
 
-.horiseon h1 .seo {
+.hori h1 .seo {
     color: #d9dcd6
 }
 
-.horiseon nav {
+.hori nav {
     padding-top: 15px;
     float: right;
     margin-right: 20px;
@@ -36,17 +36,17 @@ body {
 
 }
 
-.horiseon nav ul {
+.hori nav ul {
     list-style-type: none;
 }
 
 /* formats the nav links */
-.horiseon nav ul li {
+.hori nav ul li {
     display: inline;
     margin-left: 25px;
 }
 
-.horiseon nav ul li a {
+.hori nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
@@ -61,9 +61,6 @@ p {
     font-size: 16px;
 }
 
-section {
-    padding: 60px;
-}
 
 .hero {
     height: 800px;
@@ -85,11 +82,7 @@ section {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 .benefits {
     margin-right: 20px;
@@ -113,6 +106,12 @@ section {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .search-engine-optimization {
