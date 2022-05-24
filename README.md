@@ -8,4 +8,21 @@
 * add a concise, descriptive title elements
 
 ## Teammates
-* Andrea Flemings https://github.com/aflemings95
+* Andrea Flemings https://github.com/aflemings95 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Contribution
+Made with ❤️ by Kenneth Asay 🏃
+
+###  &copy; 2022 Run Buddy, Inc.
