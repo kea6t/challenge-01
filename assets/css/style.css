@@ -8,26 +8,26 @@ body {
     background-color: #d9dcd6;
 }
 
-/* hori class */
-.hori {
+/* header section that contains the hori class */
+.header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.hori h1 {
+.header h1 {
     display: inline;
     font-size: 48px;
     font-weight: bold;
     margin: 0;
 }
 
-.hori h1 .seo {
+.header h1 .seo {
     color: #d9dcd6
 }
 
-.hori nav {
+.header nav {
     padding-top: 15px;
     float: right;
     margin-right: 20px;
@@ -36,17 +36,17 @@ body {
 
 }
 
-.hori nav ul {
+.header nav ul {
     list-style-type: none;
 }
 
 /* formats the nav links */
-.hori nav ul li {
+.header nav ul li {
     display: inline;
     margin-left: 25px;
 }
 
-.hori nav ul li a {
+.header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
@@ -83,7 +83,7 @@ p {
 }
 
 
-
+/* benefits box that has logos of the section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -114,6 +114,7 @@ p {
     margin-left: 20px;
 }
 
+/* article sections for SEO, online-reputation-management, and social media marketing */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -172,6 +173,7 @@ p {
     font-size: 36px;
 }
 
+/* footer section */
 .footer {
     padding: 30px;
     clear: both;
