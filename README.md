@@ -12,7 +12,7 @@
 
 ## Screenshots of the website
 
-![Horiseon](hori.png)
+![Horiseon](horiseon.png)
 ![Horiseon](seon.png)
 
 
