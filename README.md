@@ -10,6 +10,11 @@
 ## Teammates
 * Andrea Flemings https://github.com/aflemings95 
 
+## Screenshots of the website
+
+![Horiseon](hori.png)
+![Horiseon](seon.png)
+
 
 
 
